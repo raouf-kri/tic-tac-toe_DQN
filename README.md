@@ -14,8 +14,8 @@ This project implements a Tic-Tac-Toe game with a reinforcement learning agent u
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tic-tac-toe-rl.git
-    cd tic-tac-toe-rl
+    git clone https://github.com/raouf-kri/tica-tac-toe_DQN
+    cd tica-tac-toe_DQN
     ```
 2. Install the required packages:
     ```sh
